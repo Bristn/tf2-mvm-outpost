@@ -13,7 +13,7 @@ Download the files via Github, because the Steam Workshop version only contains 
 ![Advanced 1](./doc/missions/advanced_1.png)
 ![Expert 0](./doc/missions/expert_0.png)
 
-Thanks to [url=https://steamcommunity.com/profiles/76561198080260467/]Sergeant Crwhips[/url] and [url=https://steamcommunity.com/id/Xtremely2932/]A+drew[/url] for creating the included missions.
+Thanks to [Sergeant Crwhips](https://steamcommunity.com/profiles/76561198080260467/) and [A+drew](https://steamcommunity.com/id/Xtremely2932/) for creating the included missions.
 
 ![How to play](./doc/headers/how_to.png)
 
@@ -26,6 +26,6 @@ To play the Github version paste: "map mvm_outpost" into your console.
 
 [Diva Dan's Ice Pack](url=https://tf2maps.net/downloads/diva-dans-ice-pack.5553/)
 
-![How to play](./doc/ice_assets.jpg)
+![Ice assets](./doc/ice_assets.jpg)
 
-Some hud icons used are from the [Canteen Crasher asset pack](url=https://drive.google.com/file/d/1HZkceWJbGlp7Eixoiv0-gyqN-ZknzMCd/view)
+Some hud icons used are from the Canteen Crasher asset pack
