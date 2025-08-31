@@ -8,3 +8,11 @@
 /*.vmx
 /*.prt
 /*.bsp
+
+# Third party assets
+arctic/
+nature/
+props_nature/
+props_arctic/
+props_arctic/
+ryan_dev/
