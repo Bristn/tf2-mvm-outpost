@@ -1,0 +1,30 @@
+This is a mvm map set in a snowy and remote outpost. Your task is to help defend Mannco from Greymanns robotic invasion.
+This map was made for the Canteen Crasher Contest, but unfortunately it hasn´t made it into the campaign. 
+
+[url=https://github.com/Bristn/tf2-mvm-outpost/releases][img]https://raw.githubusercontent.com/Bristn/tf2-mvm-outpost/refs/heads/master/doc/headers/download.png[/img][/url]
+
+Download the files via Google Drive, because the Steam Workshop version only contains the .bsp and .nav files. The [url=https://github.com/Bristn/tf2-mvm-outpost/releases]Github release[/url] additionally contains the .pop files (normal, intermediate, advanced and expert).
+
+[img]https://raw.githubusercontent.com/Bristn/tf2-mvm-outpost/refs/heads/master/doc/headers/missions.png[/img]
+
+[url=https://raw.githubusercontent.com/Bristn/tf2-mvm-outpost/refs/heads/master/doc/missions/normal_0.png][img]https://raw.githubusercontent.com/Bristn/tf2-mvm-outpost/refs/heads/master/doc/missions/normal_0.png[/img][/url]
+[url=https://raw.githubusercontent.com/Bristn/tf2-mvm-outpost/refs/heads/master/doc/missions/intermediate_0.png][img]https://raw.githubusercontent.com/Bristn/tf2-mvm-outpost/refs/heads/master/doc/missions/intermediate_0.png[/img][/url]
+[url=https://raw.githubusercontent.com/Bristn/tf2-mvm-outpost/refs/heads/master/doc/missions/advanced_0.png][img]https://raw.githubusercontent.com/Bristn/tf2-mvm-outpost/refs/heads/master/doc/missions/advanced_0.png[/img][/url]
+[url=https://raw.githubusercontent.com/Bristn/tf2-mvm-outpost/refs/heads/master/doc/missions/advanced_1.png][img]https://raw.githubusercontent.com/Bristn/tf2-mvm-outpost/refs/heads/master/doc/missions/advanced_1.png[/img][/url]
+[url=https://raw.githubusercontent.com/Bristn/tf2-mvm-outpost/refs/heads/master/doc/missions/expert_0.png][img]https://raw.githubusercontent.com/Bristn/tf2-mvm-outpost/refs/heads/master/doc/missions/expert_0.png[/img][/url]
+
+Thanks to [url=https://steamcommunity.com/profiles/76561198080260467/]Sergeant Crwhips[/url] and [url=https://steamcommunity.com/id/Xtremely2932/]A+drew[/url] for creating the included missions.
+
+[img]https://raw.githubusercontent.com/Bristn/tf2-mvm-outpost/refs/heads/master/doc/headers/how_to.png[/img]
+
+The map is currently not hosted on any servers.
+How to load the map:
+To play the Steam Workshop version paste: "map workshop/1502600048" into your console.
+To play the Google Drive version paste: "map mvm_outpost" into your console.
+
+[img]https://raw.githubusercontent.com/Bristn/tf2-mvm-outpost/refs/heads/master/doc/headers/assets.png[/img]
+
+[url=https://tf2maps.net/downloads/diva-dans-ice-pack.5553/]Diva Dan's Ice Pack[/url]
+[url=https://tf2maps.net/downloads/diva-dans-ice-pack.5553/] [img]https://raw.githubusercontent.com/Bristn/tf2-mvm-outpost/refs/heads/master/doc/ice_assets.jpg[/img] [/url]
+
+Some hud icons used are from the Canteen Crasher asset pack.

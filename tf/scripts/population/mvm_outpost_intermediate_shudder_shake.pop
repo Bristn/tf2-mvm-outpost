@@ -736,7 +736,8 @@ population
 	Mission
 	{
 		Objective	Spy
-		Where	spawnbot_left
+		Where	spawnbot_left_0
+			Where	spawnbot_left_1
 		BeginAtWave	 6
 		RunForThisManyWaves	1
 		InitialCooldown	20
@@ -750,7 +751,8 @@ population
 	Mission
 	{
 		Objective	DestroySentries
-		Where	spawnbot_left
+		Where	spawnbot_left_0
+			Where	spawnbot_left_1
 		BeginAtWave	1
 		RunForThisManyWaves	6
 		InitialCooldown	5
@@ -817,7 +819,8 @@ population
 			MaxActive	1
 			SpawnCount	1
 			WaitBetweenSpawns	22
-			Where	spawnbot_right
+			Where	spawnbot_right_0
+			Where	spawnbot_right_1
 			TFBot
 			{
 				 Template T_TFBot_Giant_Heavy_Steelfist
@@ -832,7 +835,8 @@ population
 			WaitBeforeStarting	5
 			WaitBetweenSpawns	24
 			Support	1
-			Where	spawnbot_right
+			Where	spawnbot_right_0
+			Where	spawnbot_right_1
 			TFBot
 			{
 				WeaponRestrictions	SecondaryOnly
@@ -852,7 +856,8 @@ population
 			SpawnCount	3
 			WaitBeforeStarting	22
 			WaitBetweenSpawns	9
-			Where	spawnbot_right
+			Where	spawnbot_right_0
+			Where	spawnbot_right_1
 			TFBot
 			{
 					Template	T_TFGateBot_Soldier_Easy
@@ -867,7 +872,8 @@ population
 			SpawnCount	3
 			WaitBeforeStarting	28
 			WaitBetweenSpawns	13
-			Where	spawnbot_left
+			Where	spawnbot_left_0
+			Where	spawnbot_left_1
 			TFBot
 			{
 			Template T_TFGateBot_Heavy_Crit_Easy		
@@ -882,7 +888,8 @@ population
 			SpawnCount	4
 			WaitBeforeStarting	5
 			WaitBetweenSpawns	7
-			Where	spawnbot_right
+			Where	spawnbot_right_0
+			Where	spawnbot_right_1
 			TFBot
 			{
 					Template	T_TFBot_Sniper_Huntsman
@@ -898,7 +905,8 @@ population
 			SpawnCount	4
 			WaitBeforeStarting	4
 			WaitBetweenSpawns	5
-			Where	spawnbot_right
+			Where	spawnbot_right_0
+			Where	spawnbot_right_1
 			TFBot
 			{
 			Template T_TFGateBot_Scout_Slow_Fire
@@ -912,7 +920,8 @@ population
 			MaxActive	1
 			SpawnCount	1
 			WaitBeforeStarting	24
-			Where	spawnbot_flank
+			Where	spawnbot_flank_0
+			Where	spawnbot_flank_1
 			TFBot
 			{
 			Template T_TFBot_Sniper_Huntsman_Spammer
@@ -926,7 +935,8 @@ population
 			MaxActive	3
 			SpawnCount	1
 			WaitBetweenSpawns	11
-			Where	spawnbot_right
+			Where	spawnbot_right_0
+			Where	spawnbot_right_1
 			TFBot
 			{
 			Template T_TFBot_Sniper_Huntsman_Spammer
@@ -941,7 +951,8 @@ population
 			SpawnCount	1
 			WaitBeforeStarting	12
 			Support	1
-			Where	spawnbot_right
+			Where	spawnbot_right_0
+			Where	spawnbot_right_1
 			TFBot
 			{
 					Template	T_TFBot_Scout_Melee
@@ -971,7 +982,8 @@ population
 			SpawnCount	4
 			WaitBeforeStarting	5
 			WaitBetweenSpawns	5
-			Where	spawnbot_right
+			Where	spawnbot_right_0
+			Where	spawnbot_right_1
 			TFBot
 			{
 			Template	T_TFGateBot_Heavyweapons_Shotgun
@@ -985,7 +997,8 @@ population
 			MaxActive	6
 			SpawnCount	3
 			WaitBetweenSpawns	5
-			Where	spawnbot_right
+			Where	spawnbot_right_0
+			Where	spawnbot_right_1
 			TFBot
 			{
 					ClassIcon	pyro
@@ -1005,7 +1018,8 @@ population
 			SpawnCount	6
 			WaitBeforeStarting	22
 			WaitBetweenSpawns	8
-			Where	spawnbot_right
+			Where	spawnbot_right_0
+			Where	spawnbot_right_1
 			TFBot
 			{
 					ClassIcon	soldier
@@ -1032,7 +1046,8 @@ population
 			SpawnCount	2
 			WaitBetweenSpawns	16
 			Support	1
-			Where	spawnbot_right
+			Where	spawnbot_right_0
+			Where	spawnbot_right_1
 			TFBot
 			{
 					Template	T_TFBot_Demoman_Knight
@@ -1049,7 +1064,8 @@ population
 			SpawnCount	2
 			WaitBeforeStarting	6
 			WaitBetweenSpawns	10
-			Where	spawnbot_right
+			Where	spawnbot_right_0
+			Where	spawnbot_right_1
 			Squad
 			{
 				TFBot
@@ -1076,7 +1092,8 @@ population
 			MaxActive	10
 			SpawnCount	7
 			WaitBetweenSpawns	10
-			Where	spawnbot_right
+			Where	spawnbot_right_0
+			Where	spawnbot_right_1
 			TFBot
 			{
 		Template	T_TFBot_Heavyweapons_Heavyweight_Champ_Fast
@@ -1092,7 +1109,8 @@ population
 			SpawnCount	1
 			WaitBeforeStarting	7
 			WaitBetweenSpawns	13
-			Where	spawnbot_right
+			Where	spawnbot_right_0
+			Where	spawnbot_right_1
 			TFBot
 			{
 			Template T_TFBot_Giant_Scout_Shortstop		
@@ -1103,7 +1121,8 @@ population
 			WaitForAllSpawned	2w3
 			TotalCurrency	50
 			TotalCount	8
-			Where	spawnbot_flank
+			Where	spawnbot_flank_0
+			Where	spawnbot_flank_1
 			Squad
 			{
 				TFBot
@@ -1181,7 +1200,8 @@ population
 			MaxActive	15
 			SpawnCount	5
 			WaitBetweenSpawns	14
-			Where	spawnbot_left
+			Where	spawnbot_left_0
+			Where	spawnbot_left_1
 			Squad
 			{
 				TFBot
@@ -1222,7 +1242,8 @@ population
 			SpawnCount	3
 			WaitBeforeStarting	3
 			WaitBetweenSpawns	5
-			Where	spawnbot_left
+			Where	spawnbot_left_0
+			Where	spawnbot_left_1
 			TFBot
 			{
 					Template	T_TFBot_Sniper_Huntsman
@@ -1234,7 +1255,8 @@ population
 			WaitForAllDead	3w1
 			TotalCurrency	50
 			TotalCount	3
-			Where	spawnbot_right
+			Where	spawnbot_right_0
+			Where	spawnbot_right_1
 			Squad
 			{
 				TFBot
@@ -1261,7 +1283,8 @@ population
 			SpawnCount	2
 			WaitBeforeStarting	6
 			WaitBetweenSpawns	2
-			Where	spawnbot_right
+			Where	spawnbot_right_0
+			Where	spawnbot_right_1
 			TFBot
 			{
 			Template	T_TFBot_Soldier_Extended_Concheror
@@ -1277,7 +1300,8 @@ population
 			SpawnCount	1
 			WaitBeforeStarting	4
 			WaitBetweenSpawns	3
-			Where	spawnbot_left
+			Where	spawnbot_left_0
+			Where	spawnbot_left_1
 			TFBot
 			{
 					Template	T_TFBot_Heavyweapons_Fist
@@ -1294,7 +1318,8 @@ population
 			WaitBeforeStarting	5
 			WaitBetweenSpawns	20
 			Support	1
-			Where	spawnbot_right
+			Where	spawnbot_right_0
+			Where	spawnbot_right_1
 			TFBot
 			{
 					Template	T_TFBot_Demoman
@@ -1309,7 +1334,8 @@ population
 			SpawnCount	5
 			WaitBeforeStarting	5
 			WaitBetweenSpawns	5
-			Where	spawnbot_right
+			Where	spawnbot_right_0
+			Where	spawnbot_right_1
 			TFBot
 			{
 					Template	T_TFGateBot_Scout_FAN
@@ -1327,6 +1353,7 @@ population
 				Name	Tank
 				Speed	75
 				StartingPathTrackNode	boss_path_1
+				StartingPathTrackNode	boss_path_B_1
 				OnKilledOutput
 				{
 						Target	boss_dead_relay
@@ -1348,7 +1375,8 @@ population
 			SpawnCount	3
 			WaitBeforeStarting	10
 			WaitBetweenSpawns	4
-			Where	spawnbot_right
+			Where	spawnbot_right_0
+			Where	spawnbot_right_1
 			TFBot
 			{
 			Template	T_TFBot_Soldier_Extended_Concheror
@@ -1363,7 +1391,8 @@ population
 			SpawnCount	4
 			WaitBeforeStarting	26
 			WaitBetweenSpawns	6
-			Where	spawnbot_right
+			Where	spawnbot_right_0
+			Where	spawnbot_right_1
 			Squad
 			{
 				TFBot
@@ -1410,7 +1439,8 @@ population
 			Name	4w1
 			TotalCurrency	125
 			TotalCount	1
-			Where	spawnbot_right
+			Where	spawnbot_right_0
+			Where	spawnbot_right_1
 			TFBot
 			{
 				ClassIcon	soldier_blackbox
@@ -1430,7 +1460,8 @@ population
 			MaxActive	2
 			SpawnCount	2
 			WaitBeforeStarting	2
-			Where	spawnbot_right
+			Where	spawnbot_right_0
+			Where	spawnbot_right_1
 			TFBot
 			{
 			Template	T_TFBot_Soldier_Extended_Concheror
@@ -1443,7 +1474,8 @@ population
 			TotalCurrency	75
 			TotalCount	1
 			WaitBeforeStarting	5
-			Where	spawnbot_right
+			Where	spawnbot_right_0
+			Where	spawnbot_right_1
 			TFBot
 			{
 		Template	T_TFGateBot_Giant_Jumping_Sandman
@@ -1455,7 +1487,8 @@ population
 			WaitForAllDead	4w1
 			TotalCurrency	50
 			TotalCount	1
-			Where	spawnbot_right
+			Where	spawnbot_right_0
+			Where	spawnbot_right_1
 			TFBot
 			{
 		Template	T_TFGateBot_Giant_Soldier_Rocketshotgun_C
@@ -1470,7 +1503,8 @@ population
 			MaxActive	10
 			SpawnCount	5
 			WaitBetweenSpawns	6
-			Where	spawnbot_left
+			Where	spawnbot_left_0
+			Where	spawnbot_left_1
 			TFBot
 			{
 					Template	T_TFGateBot_Scout_Hard
@@ -1485,7 +1519,8 @@ population
 			MaxActive	6
 			SpawnCount	2
 			WaitBetweenSpawns	4
-			Where	spawnbot_right
+			Where	spawnbot_right_0
+			Where	spawnbot_right_1
 			Squad
 			{
 				TFBot
@@ -1505,7 +1540,8 @@ population
 			TotalCurrency	50
 			TotalCount	5
 			WaitBeforeStarting	9
-			Where	spawnbot_right
+			Where	spawnbot_right_0
+			Where	spawnbot_right_1
 			Squad
 			{
 				TFBot
@@ -1561,7 +1597,8 @@ population
 			SpawnCount	5
 			WaitBetweenSpawns	18
 			WaitBeforeStarting	5
-			Where	spawnbot_left
+			Where	spawnbot_left_0
+			Where	spawnbot_left_1
 			TFBot
 			{
 				Skill	Hard
@@ -1577,7 +1614,8 @@ population
 			SpawnCount	1
 			WaitBetweenSpawns	20
 			Support	1
-			Where	spawnbot_right
+			Where	spawnbot_right_0
+			Where	spawnbot_right_1
 			TFBot
 			{
 					Name	"Jumping Sandman"
@@ -1594,7 +1632,8 @@ population
 			SpawnCount	5
 			WaitBeforeStarting	5
 			WaitBetweenSpawns	4
-			Where	spawnbot_right
+			Where	spawnbot_right_0
+			Where	spawnbot_right_1
 			RandomChoice
 			{
 				TFBot
@@ -1613,7 +1652,8 @@ population
 			TotalCurrency	150
 			TotalCount	3
 			WaitBeforeStarting	5
-			Where	spawnbot_right
+			Where	spawnbot_right_0
+			Where	spawnbot_right_1
 			TFBot
 			{
 			Template	T_TFBot_Giant_Soldier_Spammer
@@ -1644,7 +1684,8 @@ population
 			Name	5w1
 			TotalCurrency	25
 			TotalCount	9
-			Where	spawnbot_left
+			Where	spawnbot_left_0
+			Where	spawnbot_left_1
 			Squad
 			{
 				TFBot
@@ -1691,7 +1732,8 @@ population
 			TotalCurrency	75
 			TotalCount	10
 			WaitBeforeStarting	1
-			Where	spawnbot_left
+			Where	spawnbot_left_0
+			Where	spawnbot_left_1
 			Squad
 			{
 				TFBot
@@ -1742,7 +1784,8 @@ population
 			WaitForAllDead	5w1
 			TotalCurrency	50
 			TotalCount	5
-			Where	spawnbot_right
+			Where	spawnbot_right_0
+			Where	spawnbot_right_1
 			Squad
 			{
 				TFBot
@@ -1776,7 +1819,8 @@ population
 			MaxActive	8
 			SpawnCount	2
 			WaitBetweenSpawns	6
-			Where	spawnbot_right
+			Where	spawnbot_right_0
+			Where	spawnbot_right_1
 			TFBot
 			{
 					Template	T_TFBot_Heavyweapons_Fist
@@ -1790,7 +1834,8 @@ population
 			TotalCurrency	50
 			TotalCount	3
 			WaitBeforeStarting	4
-			Where	spawnbot_right
+			Where	spawnbot_right_0
+			Where	spawnbot_right_1
 			Squad
 			{
 				TFBot
@@ -1816,7 +1861,8 @@ population
 			WaitBeforeStarting	15
 			WaitBetweenSpawns	22
 			Support	1
-			Where	spawnbot_right
+			Where	spawnbot_right_0
+			Where	spawnbot_right_1
 			TFBot
 			{
 					Template	T_TFBot_Sniper_Huntsman
@@ -1832,7 +1878,8 @@ population
 			SpawnCount	1
 			WaitBeforeStarting	12
 			WaitBetweenSpawns	5
-			Where	spawnbot_left
+			Where	spawnbot_left_0
+			Where	spawnbot_left_1
 			TFBot
 			{
 					Template	T_TFBot_Heavyweapons_Fist
@@ -1849,7 +1896,8 @@ population
 			SpawnCount	5
 			WaitBeforeStarting	3
 			WaitBetweenSpawns	7
-			Where	spawnbot_right
+			Where	spawnbot_right_0
+			Where	spawnbot_right_1
 			TFBot
 			{
 					Template	T_TFGateBot_Pyro_Normal
@@ -1868,6 +1916,7 @@ population
 				Speed	75
 				Skin 1
 				StartingPathTrackNode	boss_path_1
+				StartingPathTrackNode	boss_path_B_1
 				OnKilledOutput
 				{
 						Target	boss_dead_relay
@@ -1890,7 +1939,8 @@ population
 			SpawnCount	3
 			WaitBeforeStarting	16
 			WaitBetweenSpawns	3
-			Where	spawnbot_right
+			Where	spawnbot_right_0
+			Where	spawnbot_right_1
 			TFBot
 			{
 					Template	T_TFBot_Demo_Burst
@@ -1903,7 +1953,8 @@ population
 			TotalCurrency	100
 			TotalCount	4
 			WaitBeforeStarting	7
-			Where	spawnbot_left
+			Where	spawnbot_left_0
+			Where	spawnbot_left_1
 			Squad
 			{
 				TFBot
@@ -1932,7 +1983,8 @@ population
 			MaxActive	8
 			SpawnCount	3
 			Support	1
-			Where	spawnbot_right
+			Where	spawnbot_right_0
+			Where	spawnbot_right_1
 			RandomChoice
 			{
 				TFBot
@@ -1957,7 +2009,8 @@ population
 			SpawnCount	5
 			WaitBeforeStarting	8
 			WaitBetweenSpawns	21
-			Where	spawnbot_right
+			Where	spawnbot_right_0
+			Where	spawnbot_right_1
 			Squad
 			{
 				TFBot
@@ -2010,7 +2063,8 @@ population
 			Name	6w1
 			TotalCurrency	150
 			TotalCount	1
-			Where	spawnbot_right
+			Where	spawnbot_right_0
+			Where	spawnbot_right_1
 			TFBot
 			{
 				Template T_TFBot_Chief_Blast_Demo	
@@ -2024,7 +2078,8 @@ population
 			SpawnCount	2
 			WaitBeforeStarting	2
 			WaitBetweenSpawns	20
-			Where	spawnbot_right
+			Where	spawnbot_right_0
+			Where	spawnbot_right_1
 			Squad
 			{
 				TFBot
@@ -2047,7 +2102,8 @@ population
 			MaxActive	9
 			SpawnCount	5
 			WaitBeforeStarting	6
-			Where	spawnbot_right
+			Where	spawnbot_right_0
+			Where	spawnbot_right_1
 			TFBot
 			{
 					ClassIcon	heavy_heater
@@ -2069,7 +2125,8 @@ population
 			SpawnCount	3
 			WaitBeforeStarting	6
 			WaitBetweenSpawns	8
-			Where	spawnbot_right
+			Where	spawnbot_right_0
+			Where	spawnbot_right_1
 			TFBot
 			{
 			Template	T_TFGateBot_Soldier_Expand_Buff
@@ -2085,7 +2142,8 @@ population
 			SpawnCount	4
 			WaitBeforeStarting	8
 			WaitBetweenSpawns	7
-			Where	spawnbot_left
+			Where	spawnbot_left_0
+			Where	spawnbot_left_1
 			Squad
 			{
 				TFBot
@@ -2115,7 +2173,8 @@ population
 			MaxActive	8
 			SpawnCount	2
 			WaitBetweenSpawns	2
-			Where	spawnbot_left
+			Where	spawnbot_left_0
+			Where	spawnbot_left_1
 			TFBot
 			{
 					Template	T_TFBot_Pyro
@@ -2132,7 +2191,8 @@ population
 			SpawnCount	5
 			WaitBeforeStarting	5
 			WaitBetweenSpawns	7
-			Where	spawnbot_right
+			Where	spawnbot_right_0
+			Where	spawnbot_right_1
 			TFBot
 			{
 					Template	T_TFBot_Scout_FAN
@@ -2149,7 +2209,8 @@ population
 			SpawnCount	4
 			WaitBeforeStarting	6
 			WaitBetweenSpawns	6
-			Where	spawnbot_left
+			Where	spawnbot_left_0
+			Where	spawnbot_left_1
 			TFBot
 			{
 			Template	T_TFGateBot_Soldier_RocketPush
@@ -2164,7 +2225,8 @@ population
 			MaxActive	8
 			SpawnCount	2
 			WaitBetweenSpawns	3
-			Where	spawnbot_right
+			Where	spawnbot_right_0
+			Where	spawnbot_right_1
 			TFBot
 			{
 					Name	"Shotgun Heavy"
@@ -2180,7 +2242,8 @@ population
 			SpawnCount	2
 			WaitBetweenSpawns	4
 			Support	1
-			Where	spawnbot_flank
+			Where	spawnbot_flank_0
+			Where	spawnbot_flank_1
 			TFBot
 			{
 					Name	"Bonk Scout"
@@ -2197,7 +2260,8 @@ population
 			WaitBeforeStarting	35
 			WaitBetweenSpawns	15
 			Support	1
-			Where	spawnbot_flank
+			Where	spawnbot_flank_0
+			Where	spawnbot_flank_1
 			TFBot
 			{
 					Name	"Bonk Scout"
@@ -2214,7 +2278,8 @@ population
 			WaitBeforeStarting	25
 			WaitBetweenSpawns	45
 			Support	1
-			Where	spawnbot_flank
+			Where	spawnbot_flank_0
+			Where	spawnbot_flank_1
 			TFBot
 			{
 					Name	"Bonk Scout"
@@ -2233,7 +2298,8 @@ population
 			SpawnCount	3
 			WaitBeforeStarting	5
 			WaitBetweenSpawns	13
-			Where	spawnbot_flank
+			Where	spawnbot_flank_0
+			Where	spawnbot_flank_1
 			Squad
 			{
 				TFBot
@@ -2287,7 +2353,8 @@ population
 			SpawnCount	1
 			WaitBeforeStarting	5
 			WaitBetweenSpawns	2
-			Where	spawnbot_flank
+			Where	spawnbot_flank_0
+			Where	spawnbot_flank_1
 			TFBot
 			{
 		Template	T_TFBot_Soldier_Extended_Buff_Banner

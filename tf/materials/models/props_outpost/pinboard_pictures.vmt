@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"models\props_outpost\pinboard_pictures"
+	"$phong" "1"
+	"$phongexponent" "10"
+	"$phongboost" ".15"	
+	"$phongfresnelranges"	"[.7 15 20]"
+	"$basemapalphaphongmask" "1"
+}

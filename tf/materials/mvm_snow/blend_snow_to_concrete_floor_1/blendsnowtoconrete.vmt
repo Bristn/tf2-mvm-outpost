@@ -1,0 +1,16 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "mvm_snow/blend_snow_to_concrete_floor_1/concretefloor007"
+	"$basetexture2" "Nature/snow_full001"
+	"$blendmodulatetexture" "Nature/snowgrass_blendmask"
+	"$bumpmap" "mvm_snow/blend_snow_to_concrete_floor_1/concretefloor007_normal"
+	"$bumpmap2" "Nature/snow_full001_normal"
+	"$surfaceprop" "snow"
+	"$normalmapalphaenvmapmask" 1
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.01 0.01 0.01]"
+	"$envmapsaturation" ".25"
+	"$envmapcontrast" "1"
+
+	"%keywords" "tf"
+}
