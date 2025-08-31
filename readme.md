@@ -3,7 +3,7 @@ This map was made for the Canteen Crasher Contest, but unfortunately it hasn´t 
 
 ![Download](./doc/headers/download.png)
 
-Download the files via Github, because the Steam Workshop version only contains the .bsp and .nav files. The [url=https://drive.google.com/file/d/1uROpVMG8qtI48-nt0qMjLm5V5TiIalVF/view] Google Drive version [/url] additionally contains the .pop files (normal, intermediate, advanced and expert).
+Download the files via Github, because the Steam Workshop version only contains the .bsp and .nav files. The [Github release](https://github.com/Bristn/tf2-mvm-outpost/releases) additionally contains the .pop files (normal, intermediate, advanced and expert).
 
 ![Missions](./doc/headers/missions.png)
 
