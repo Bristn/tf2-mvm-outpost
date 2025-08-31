@@ -2042,7 +2042,6 @@ population
 				Name	Tank
 				Speed	75
 				StartingPathTrackNode	boss_path_1
-				StartingPathTrackNode	boss_path_B_1
 				OnKilledOutput
 				{
 						Target	boss_dead_relay
@@ -2757,7 +2756,6 @@ population
 				Name	Tank
 				Speed	75
 				StartingPathTrackNode	boss_path_1
-				StartingPathTrackNode	boss_path_B_1
 				OnKilledOutput
 				{
 						Target	boss_dead_relay
@@ -3139,7 +3137,6 @@ Template	T_TFGateBot_Giant_Soldier_BURST_FIRE_Directhit
 				Name	Tank
 				Speed	75
 				StartingPathTrackNode	boss_path_1
-				StartingPathTrackNode	boss_path_B_1
 				OnKilledOutput
 				{
 						Target	boss_dead_relay

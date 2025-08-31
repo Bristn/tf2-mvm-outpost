@@ -1,0 +1,4 @@
+- Fix trigger_hurt not reaching bottom of water
+- Fix forward bots spawns using non-conventional logic
+- Update forward tank spawn to use VScript
+  - Still results in the voice lines playing too early, but pop files don't allow multiple tank spawn points
